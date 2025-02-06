@@ -1,0 +1,2 @@
+a=int(innput(enter the name)):
+print(a):
